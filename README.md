@@ -1,9 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+## My Name is GAGAN AGRAWAL
+### I'm Currently Polishing my Web Development skills
 
-<!--
-**HungryWatermelon/HungryWatermelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my DSA Skills
 - 🌱 I’m currently learning JavaScript
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
--->
