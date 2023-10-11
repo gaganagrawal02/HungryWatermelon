@@ -5,10 +5,10 @@
 
 
 - 🔭 I’m currently working on my DSA Skills
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently looking for intership
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Cricket
-- 📫 How to reach me: 
+- 📫 How to reach me: gagan02agrawal@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
